@@ -1,9 +1,10 @@
-#📚Alumni Learning Plan
+# 📚 Alumni Learning Plan
 
 A 60 day learning plan to refresh the basics of OOP, get a command of Full Stack Javascript, build clean UIs with React, and practice skills you'll need to be productive team member like advanced git and TDD.
 
 
-##Skills Covered:
+## Skills Covered:
+
 - 💎 Object Oriented Programming
 - 💎 ES6+ Javascript
 - 💎 Node
@@ -15,7 +16,8 @@ A 60 day learning plan to refresh the basics of OOP, get a command of Full Stack
 - 💎 Git/Github
 - 💎 Test Driven Development
 
-##Important Events:
+## Important Events:
+
 - 🗓️ Resilient Coders Meet & Greet (Oct. 11 - 5:30pm @ 50 Milk)
 - 🗓️ Intro to Postgres (Oct. 16 - 6:00pm @ 50 Milk)
 - 🗓️ Build a Full Stack Node App w/ Postgres (Oct. 23 - 6:00pm @ 50 Milk)
@@ -24,7 +26,7 @@ A 60 day learning plan to refresh the basics of OOP, get a command of Full Stack
 
 ***
 
-##How it works
+## How it works
 
 The plan is broken down into 8 weeks. Each week will have the following:
 
@@ -36,56 +38,23 @@ The plan is broken down into 8 weeks. Each week will have the following:
 
 ***
 
-##Weekly Plans
+## Weekly Plans
 - 🚀 [Week 01: **JS Review**](#week01)
 
 ***
+
 **Coming Soon**
 - 🚀 [Week 02: **PostgreSQL**](#week02)
-  - [Reading](week02-reading)
-  - [Videos](week02-videos)
-  - [Practice Problems](week02-practice)
-  - [Project Link](week02-project)
-  - [Lecture Materials](week02-lecture)
 - 🚀 [Week 03: **Full Stack JS (Node, Express, PostgreSQL)**](#week03)
-  - [Reading](week03-reading)
-  - [Videos](week03-videos)
-  - [Practice Problems](week03-practice)
-  - [Project Link](week03-project)
-  - [Lecture Materials](week03-lecture)
 - 🚀 [Week 04: **React**](#week04)
-  - [Reading](week04-reading)
-  - [Videos](week04-videos)
-  - [Practice Problems](week04-practice)
-  - [Project Link](week04-project)
-  - [Lecture Materials](week04-lecture)
 - 🚀 [Week 05: **Test Driven Development**](#week05)
-  - [Reading](week05-reading)
-  - [Videos](week05-videos)
-  - [Practice Problems](week05-practice)
-  - [Project Link](week05-project)
-  - [Lecture Materials](week05-lecture)
 - 🚀 [Week 06: **App Week**](#week06)
-  - [Reading](week06-reading)
-  - [Videos](week06-videos)
-  - [Practice Problems](week06-practice)
-  - [Project Link](week06-project)
-  - [Lecture Materials](week06-lecture)
 - 🚀 [Week 07: **OOP Fundamentals w/ Javascript**](#week07)
-  - [Reading](week07-reading)
-  - [Videos](week07-videos)
-  - [Practice Problems](week07-practice)
-  - [Project Link](week07-project)
-  - [Lecture Materials](week07-lecture)
 - 🚀 [Week 08: **Computer Science Fundamentals**](#week08)
-  - [Reading](week08-reading)
-  - [Videos](week08-videos)
-  - [Practice Problems](week08-practice)
-  - [Project Link](week08-project)
-  - [Lecture Materials](week08-lecture)
+
 
 ***
-##Week01
+## Week01
 
 *No lecture this week*
 
