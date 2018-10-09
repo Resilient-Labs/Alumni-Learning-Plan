@@ -24,8 +24,6 @@ A 60 day learning plan to refresh the basics of OOP, get a command of Full Stack
 - 🗓️ Creating Reusable React Components w/ Atomic Design (Oct. 30 - 6:00pm @ 50 Milk)
 - 🗓️ Introduction to Test Driven Development (Nov. 6 - 6:00pm @ 50 Milk)
 
-***
-
 ## How it works
 
 The plan is broken down into 8 weeks. Each week will have the following:
@@ -36,12 +34,9 @@ The plan is broken down into 8 weeks. Each week will have the following:
 - 👩🏽‍💻 A project that you will submit via Github to recieve feedback
 - 🚌 Lecture on most Tuesdays @ 6pm
 
-***
 
 ## Weekly Plans
 - 🚀 [Week 01: **JS Review**](#week01)
-
-***
 
 **Coming Soon**
 - 🚀 [Week 02: **PostgreSQL**](#week02)
