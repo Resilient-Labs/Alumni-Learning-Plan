@@ -86,7 +86,7 @@ The plan is broken down into 8 weeks. Each week will have the following:
 | ---------|:-------------:| -----:|
 | Read     | [The JS Way Ch. 09](https://github.com/bpesquet/thejsway/blob/master/manuscript/chapter09.md) | Dive into the basics of Object Oriented Javascript |
 | Watch    | [JS OOP Crash Course](https://youtu.be/vDJpGenyHaA)      | Review OOJS |
-| Do       | [Build a Simple Calculator using JS OOP best practices]()  | Reinforce OOP and get comfortable submitting PRs on Github  |
+| Do       | [Build a Simple Calculator using JS OOP best practices](https://github.com/Resilient-Labs/week01-alumni-project-calculator)  | Reinforce OOP and get comfortable submitting PRs on Github  |
 
 | Weekend    | Material     | Why   |
 | ---------|:-------------:| -----:|
