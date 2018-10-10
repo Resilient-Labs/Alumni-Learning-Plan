@@ -90,7 +90,7 @@ The plan is broken down into 8 weeks. Each week will have the following:
 
 | Weekend    | Material     | Why   |
 | ---------|:-------------:| -----:|
-| Read     | [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) | REALLY learn JS OOP principles |
+| Read     | [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) | REALLY LEARN JS OOP principles |
 | Do       | Refactor your Calculator and Resubmit  | Reinforce OOP and get comfortable submitting PRs on Github  |
 
 ***
