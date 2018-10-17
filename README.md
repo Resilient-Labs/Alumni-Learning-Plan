@@ -37,9 +37,9 @@ The plan is broken down into 8 weeks. Each week will have the following:
 
 ## Weekly Plans
 - 🚀 [Week 01: **JS Review**](#week01)
+- 🚀 [Week 02: **PostgreSQL**](#week02)
 
 **Coming Soon**
-- 🚀 [Week 02: **PostgreSQL**](#week02)
 - 🚀 [Week 03: **Full Stack JS (Node, Express, PostgreSQL)**](#week03)
 - 🚀 [Week 04: **React**](#week04)
 - 🚀 [Week 05: **Test Driven Development**](#week05)
