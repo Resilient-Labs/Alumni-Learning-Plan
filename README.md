@@ -94,3 +94,42 @@ The plan is broken down into 8 weeks. Each week will have the following:
 | Do       | Refactor your Calculator and Resubmit  | Reinforce OOP and get comfortable submitting PRs on Github  |
 
 ***
+
+## Week02
+*PostgreSQL*
+*LECTURE TUESDAY @ 6pm*
+
+| Day 01    | Material     | Why   |
+| ---------|:-------------:| -----:|
+| Read     | [Big O Notation Explained](https://medium.freecodecamp.org/big-o-notation-simply-explained-with-illustrations-and-video-87d5a71c0174) | To help refresh the basics of Big O Notation |
+| Watch    | [Big O Video](https://youtu.be/v4cd1O4zkGw)      | Big O explained simply in video |
+| Do       | [CodeWars: 1 Kata](https://www.codewars.com/)  | JS syntax && problem solving practice  |
+
+| Day 02    | Material     | Why   |
+| ---------|:-------------:| -----:|
+| Read     | The Imposters Handbook - Big O Chapter | Deeper Dive into Big O |
+| Watch    | [MongoDB vs. PostgreSQL](https://youtu.be/eM7hzKwvTq8)      | Video breaks down the differences 🚨 **WATCH BEFORE CLASS**  |
+| Do       | Go to class      | Leon just wants to spend time with you - Also, covering complexity, MongoDB vs. PostgreSQL, and basics of PostgreSQL |
+
+| Day 03    | Material     | Why   |
+| ---------|:-------------:| -----:|
+| Read     | [PostgreSQL / MySQL comparison](https://blog.panoply.io/postgresql-vs.-mysqld) | Learn all about the difference btw PostgreSQL and MySQL |
+| Watch    | [Great Simple Intro. to PostgreSQL](https://youtu.be/xaWlS9HtWYw)      | Simple intro to PostgreSQL the covers everything we did in class 🚨 **WATCH ALL 4 Videos** |
+| Do       | [CodeWars: 1 Kata](https://www.codewars.com/)  | JS syntax && problem solving practice  |
+
+| Day 04    | Material     | Why   |
+| ---------|:-------------:| -----:|
+| Do   | If you haven't  yet INSTALL PostgreSQL | Redo the queries from yesterdays video without looking at the answers. Ask for help in #alumni-course  |
+| Do       | [JS30 #06](https://javascript30.com/)      | Learn JS Fundamentals && Yes, we are skipping - doing just the 🤑 money projects 🤑 |
+| Do       | [CodeWars: 1 Kata](https://www.codewars.com/)  | JS syntax && problem solving practice  |
+
+| Day 05    | Material     | Why   |
+| ---------|:-------------:| -----:|
+| Read     | [ACTIVELY READ: PostgreSQL Tutorial Sections 1 - 3](http://www.postgresqltutorial.com/) | Dive into the basics of PostgreSQL |
+| Do       | [Setup a PostgreSQL DB and do a complex query](https://github.com/Resilient-Labs/week02-alumni-project-postgres-query)  | Reinforce PostgreSQL learning from this week  |
+
+| Weekend    | Material     | Why   |
+| ---------|:-------------:| -----:|
+| Read     | [ACTIVELY READ: PostgreSQL Tutorial Sections 4 - 9](http://www.postgresqltutorial.com/) | REALLY LEARN PostgreSQL |
+
+***
