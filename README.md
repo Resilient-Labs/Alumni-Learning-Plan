@@ -14,19 +14,31 @@ A 60 day learning plan to refresh the basics of OOP, get a command of Full Stack
 - 💎 Redux
 - 💎 React Native
 - 💎 Git/Github
+- 💎 CS Theory
+- 💎 Machine Learning
 - 💎 Test Driven Development
 
 ## Important Events:
 
-- 🗓️ Resilient Coders Meet & Greet (Oct. 11 - 5:30pm @ 50 Milk)
-- 🗓️ Intro to Postgres (Oct. 16 - 6:00pm @ 50 Milk)
-- 🗓️ Build a Full Stack Node App w/ Postgres (Oct. 23 - 6:00pm @ 50 Milk)
-- 🗓️ Creating Reusable React Components w/ Atomic Design (Oct. 30 - 6:00pm @ 50 Milk)
-- 🗓️ Introduction to Test Driven Development (Nov. 6 - 6:00pm @ 50 Milk)
+- 🗓️ Introduction To Building Accessible Web Apps (Wed. Mar. 20th - 6:00pm @ 50 Milk)
+- 🗓️ Build An Accessible Full Stack Node App w/ Postgres (Wed. Mar. 27 - 6:00pm @ 50 Milk)
+- 🗓️ Creating Reusable React Components w/ Atomic Design (Wed. Apr. 3 - 6:00pm @ 50 Milk)
+- 🗓️ Introduction to Test Driven Development (Wed. Apr. 10 - 6:00pm @ 50 Milk)
+- 🗓️ Build A Full Stack Accessible Node App w/ Postgres, React, and Full Test Coverage - Part 01 THE BACKEND (Wed. Apr. 17 - 6:00pm @ 50 Milk)
+- 🗓️ Build A Full Stack Accessible Node App w/ Postgres, React, and Full Test Coverage - Part 02 THE FRONTEND (Wed. Apr. 24 - 6:00pm @ 50 Milk)
+- 🗓️ Build A Full Stack Accessible Node App w/ Postgres, React, and Full Test Coverage - Part 03 THE DEPLOYMENT (Wed. Apr. 24 - 6:00pm @ 50 Milk)
+
+- 🤸🏽‍🏄🏾‍🏌🏽‍BREAK🤸🏽‍🏄🏾‍🏌🏽‍
+
+- 🗓️ Become The Architect - How To Build Large Scalable Web Apps (Wed. Jun. 5th - 6:00pm @ 50 Milk)
+- 🗓️ Intro To Machine Learning - Learn The Concepts, Math, and Theory(Wed. Jun. 5th - 6:00pm @ 50 Milk)
+- 🗓️ Build A Machine Learning App - Detect And Destroy Your Enemies(Wed. Jun. 5th - 6:00pm @ 50 Milk)
+
+‼️ More To Come ‼️
 
 ## How it works
 
-The plan is broken down into 8 weeks. Each week will have the following:
+The plan is broken down into 9 week chunks. Each week will have the following:
 
 - 📖 Important Readings
 - 📼 Supplemental Videos To Watch
@@ -38,20 +50,19 @@ The plan is broken down into 8 weeks. Each week will have the following:
 ## Weekly Plans
 - 🚀 [Week 01: **JS Review**](#week01)
 - 🚀 [Week 02: **PostgreSQL**](#week02)
+- 🚀 [Week 03: **Web Accessibility**](#week03)
 
 **Coming Soon**
-- 🚀 [Week 03: **Full Stack JS (Node, Express, PostgreSQL)**](#week03)
-- 🚀 [Week 04: **React**](#week04)
-- 🚀 [Week 05: **Test Driven Development**](#week05)
-- 🚀 [Week 06: **App Week**](#week06)
-- 🚀 [Week 07: **OOP Fundamentals w/ Javascript**](#week07)
-- 🚀 [Week 08: **Computer Science Fundamentals**](#week08)
+- 🚀 [Week 04: **Full Stack JS (Node, Express, PostgreSQL)**](#week03)
+- 🚀 [Week 05: **React**](#week04)
+- 🚀 [Week 06: **Test Driven Development**](#week05)
+- 🚀 [Week 07: **Beautiful Backends**](#week06)
+- 🚀 [Week 08: **Beautiful Frontends**](#week07)
+- 🚀 [Week 09: **Build Process & Deployment**](#week08)
 
 
 ***
 ## Week01
-
-*No lecture this week*
 
 | Day 01    | Material     | Why   |
 | ---------|:-------------:| :-----:|
@@ -97,7 +108,6 @@ The plan is broken down into 8 weeks. Each week will have the following:
 
 ## Week02
 *PostgreSQL*
-*LECTURE TUESDAY @ 6pm*
 
 | Day 01    | Material     | Why   |
 | ---------|:-------------:| :-----:|
@@ -133,3 +143,39 @@ The plan is broken down into 8 weeks. Each week will have the following:
 | Read     | [ACTIVELY READ: PostgreSQL Tutorial Sections 4 - 9](http://www.postgresqltutorial.com/) | REALLY LEARN PostgreSQL |
 
 ***
+
+## Week03
+*Web Accessibility*
+*LECTURE Wednesday @ 6pm*
+
+| Day 01    | Material     | Why   |
+| ---------|:-------------:| :-----:|
+| Read     | [What is accessibility?](https://dev.to/maxwell_dev/the-web-accessibility-introduction-i-wish-i-had-4ope) | A great intro to web accessibility |
+| Watch    | [Keep In Mind](https://webdesign.tutsplus.com/courses/a-beginners-guide-to-web-accessibility/lessons/disabilities-to-keep-in-mind)      | Who and what to keep in mind when building applications 🚨 **WATCH BEFORE CLASS**|
+| Do       | [CodeWars: 1 Kata](https://www.codewars.com/)  | JS syntax && problem solving practice  |
+
+| Day 02    | Material     | Why   |
+| ---------|:-------------:| :-----:|
+| Read     | [Web Accessibility Cheatsheet](https://moritzgiessmann.de/accessibility-cheatsheet/) | Quick overview of important accessibility factors |
+| Watch    | [Google's Web Accessibility Course - Lesson 01](https://classroom.udacity.com/courses/ud891)      | Explore the diversity of user experiences 🚨 **WATCH BEFORE CLASS**  |
+| Do       | Go to class      | Leon just wants to spend time with you - Also, covering complexity, MongoDB vs. PostgreSQL, and basics of PostgreSQL |
+
+| Day 03    | Material     | Why   |
+| ---------|:-------------:| :-----:|
+| Do       | Go to class      | Leon just wants to spend time with you - Also, covering Web Accessibility! 🚨🚨🚨 |
+
+| Day 04    | Material     | Why   |
+| ---------|:-------------:| :-----:|
+| Watch    | [Google's Web Accessibility Course - Lesson 03](https://classroom.udacity.com/courses/ud891)      | Web Accessibility - Semantics Basics  |
+| Do       | [JS30 #15](https://javascript30.com/)      | Learn JS Fundamentals && Yes, we are skipping - doing just the 🤑 money projects 🤑 |
+| Do       | [CodeWars: 1 Kata](https://www.codewars.com/)  | JS syntax && problem solving practice  |
+
+| Day 05    | Material     | Why   |
+| ---------|:-------------:| :-----:|
+| Watch    | [Google's Web Accessibility Course - Lesson 05](https://classroom.udacity.com/courses/ud891)      | Web Accessibility - ARIA  |
+| Do    | [Build An Accessible ToDo List](https://inclusive-components.design/a-todo-list/)      | Try your own before following the guide! ☠️ ☠️ ☠️ |
+
+
+| Weekend    | Material     | Why   |
+| ---------|:-------------:| :-----:|
+| Do     | Make Your Portfolio Accessible | Be the change. Bring the ruckus! 😇 |
