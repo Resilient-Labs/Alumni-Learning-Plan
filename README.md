@@ -1,6 +1,6 @@
 # 📚 Alumni Learning Plan
 
-A 60 day learning plan to refresh the basics of OOP, get a command of Full Stack Javascript, build clean UIs with React, and practice skills you'll need to be productive team member like advanced git and TDD.
+A 126 day learning plan to refresh the basics of OOP, get a command of Full Stack Javascript, build clean UIs with React, explore the cutting edge, and practice skills you'll need to be productive team member like advanced git and TDD.
 
 
 ## Skills Covered:
@@ -43,8 +43,8 @@ The plan is broken down into 9 week chunks. Each week will have the following:
 - 📖 Important Readings
 - 📼 Supplemental Videos To Watch
 - 💻 Practice Problems
-- 👩🏽‍💻 A project that you will submit via Github to recieve feedback
-- 🚌 Lecture on most Tuesdays @ 6pm
+- 👩🏽‍💻 A project that you will submit via Github to receive feedback
+- 🚌 Lecture on most Wednesdays @ 6pm
 
 
 ## Weekly Plans
@@ -158,7 +158,7 @@ The plan is broken down into 9 week chunks. Each week will have the following:
 | ---------|:-------------:| :-----:|
 | Read     | [Web Accessibility Cheatsheet](https://moritzgiessmann.de/accessibility-cheatsheet/) | Quick overview of important accessibility factors |
 | Watch    | [Google's Web Accessibility Course - Lesson 01](https://classroom.udacity.com/courses/ud891)      | Explore the diversity of user experiences 🚨 **WATCH BEFORE CLASS**  |
-| Do       | Go to class      | Leon just wants to spend time with you - Also, covering complexity, MongoDB vs. PostgreSQL, and basics of PostgreSQL |
+
 
 | Day 03    | Material     | Why   |
 | ---------|:-------------:| :-----:|
@@ -178,4 +178,4 @@ The plan is broken down into 9 week chunks. Each week will have the following:
 
 | Weekend    | Material     | Why   |
 | ---------|:-------------:| :-----:|
-| Do     | Make Your Portfolio Accessible | Be the change. Bring the ruckus! 😇 |
+| Do     | [Make Your Portfolio Accessible](https://github.com/Resilient-Labs/week03-alumni-project-accessible-todo-list) | Be the change. Bring the ruckus! Submit on Github! 😇 |
