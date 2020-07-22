@@ -1,6 +1,6 @@
 # 📚 Alumni Learning Plan
 
-A 126 day learning plan to refresh the basics of OOP, get a command of Full Stack Javascript, build clean UIs with React, explore the cutting edge, and practice skills you'll need to be productive team member like advanced git and TDD.
+A 120 day learning plan to refresh the basics of OOP, get a command of Full Stack Javascript, build clean UIs with React, explore the cutting edge, and practice skills you'll need to be productive team member like advanced git and TDD.
 
 
 ## Skills Covered:
